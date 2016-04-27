@@ -2,7 +2,7 @@
 随机排序一个数组。(en : Disrupt an array, random)
 
 ## Usage
-```
+``` Objective-C
 // MutableArray
 {
 	NSMutableArray *array = [@[@"1", @"2", @"3", @"4", @"5", @"6", @"7", @"8"] mutableCopy];
@@ -19,3 +19,6 @@
 	NSLog(@"%@, %p", array, array);
 }
 ```
+
+## Swift
+[https://github.com/CocodyChou/RandomArray_Swift](https://github.com/CocodyChou/RandomArray_Swift)
